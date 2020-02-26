@@ -1,0 +1,3 @@
+this is aa text file
+there is some stuff here
+to read for programs
